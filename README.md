@@ -1,4 +1,6 @@
-MOD2 mid mod Project
+MOD2 mid mod React Project
+
+This project uses an api key
 
 run with Node.js v15.2.1.
 
