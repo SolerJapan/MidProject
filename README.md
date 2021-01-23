@@ -1,3 +1,7 @@
+This Project converts selected currency to the final amount 
+
+The amount exanged is the literal final amount
+
 MOD2 mid mod React Project
 
 This project uses an api key
