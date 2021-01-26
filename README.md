@@ -1,13 +1,3 @@
-This Project converts selected currency to the final amount 
-
-The amount exanged is the literal final amount
-
-MOD2 mid mod React Project
-
-This project uses an api key
-
-run with Node.js v15.2.1.
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
