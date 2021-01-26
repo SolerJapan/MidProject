@@ -1,3 +1,7 @@
+This application is an app to convert currency from one country to another.The application uses an API to connect with the current values 
+and returns the conversion.
+
+
 Uses API key is hidden inside app.
 
 
